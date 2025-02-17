@@ -16,7 +16,4 @@ Pernyataan Masalah:
 2. Membandingkan total dan rata-rata profit per-segment dan juga untuk setiap region.
 3. Analisis profit dan sales berdasarkan bulan dan tahun untuk mengetahui kapan periode profit dan sales tertinggi dan terendah.
 
-berikut untuk dataset originalnya 
-
-https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales
-
+berikut untuk dataset originalnya [Kaggle](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales)
